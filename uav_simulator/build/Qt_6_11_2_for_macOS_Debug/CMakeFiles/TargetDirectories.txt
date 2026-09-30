@@ -1,0 +1,9 @@
+/Users/yaromir/МИРЭА/3 курс/1 семестр/Программное обеспечение объектов наземной инфраструктуры/uav_simulator/build/Qt_6_11_2_for_macOS_Debug/CMakeFiles/uav_simulator.dir
+/Users/yaromir/МИРЭА/3 курс/1 семестр/Программное обеспечение объектов наземной инфраструктуры/uav_simulator/build/Qt_6_11_2_for_macOS_Debug/CMakeFiles/edit_cache.dir
+/Users/yaromir/МИРЭА/3 курс/1 семестр/Программное обеспечение объектов наземной инфраструктуры/uav_simulator/build/Qt_6_11_2_for_macOS_Debug/CMakeFiles/rebuild_cache.dir
+/Users/yaromir/МИРЭА/3 курс/1 семестр/Программное обеспечение объектов наземной инфраструктуры/uav_simulator/build/Qt_6_11_2_for_macOS_Debug/CMakeFiles/list_install_components.dir
+/Users/yaromir/МИРЭА/3 курс/1 семестр/Программное обеспечение объектов наземной инфраструктуры/uav_simulator/build/Qt_6_11_2_for_macOS_Debug/CMakeFiles/install.dir
+/Users/yaromir/МИРЭА/3 курс/1 семестр/Программное обеспечение объектов наземной инфраструктуры/uav_simulator/build/Qt_6_11_2_for_macOS_Debug/CMakeFiles/install/local.dir
+/Users/yaromir/МИРЭА/3 курс/1 семестр/Программное обеспечение объектов наземной инфраструктуры/uav_simulator/build/Qt_6_11_2_for_macOS_Debug/CMakeFiles/install/strip.dir
+/Users/yaromir/МИРЭА/3 курс/1 семестр/Программное обеспечение объектов наземной инфраструктуры/uav_simulator/build/Qt_6_11_2_for_macOS_Debug/CMakeFiles/uav_simulator_autogen_timestamp_deps.dir
+/Users/yaromir/МИРЭА/3 курс/1 семестр/Программное обеспечение объектов наземной инфраструктуры/uav_simulator/build/Qt_6_11_2_for_macOS_Debug/CMakeFiles/uav_simulator_autogen.dir
